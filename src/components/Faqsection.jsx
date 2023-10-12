@@ -156,14 +156,14 @@ const Faqsection = () => {
           />
         </div>
         <div className="d-flex align-items-center justify-content-center mb-5 ">
-          <a href="">
+          <a href="#">
             <img
               src={logo1}
               alt="logo1"
               className="w-100 mw_72 me-5"
             />
           </a>
-          <a href="">
+          <a href="#">
             <img
               src={logo2}
               alt="logo2"
